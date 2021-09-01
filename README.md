@@ -9,3 +9,6 @@
 
 - [x] Retornar Data Completa
 - [x] Retornar Hora em tempo real
+
+### Preview
+ https://pedroacciainoli.github.io/QualDia/
